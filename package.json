@@ -1,0 +1,23 @@
+{
+  "name": "realizar-front-end-do-problema-de-logica",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel source/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikelry/Realizar-front-end-do-Problema-de-Logica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikelry/Realizar-front-end-do-Problema-de-Logica/issues"
+  },
+  "homepage": "https://github.com/Rikelry/Realizar-front-end-do-Problema-de-Logica#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "typescript": "^6.0.2"
+  }
+}
